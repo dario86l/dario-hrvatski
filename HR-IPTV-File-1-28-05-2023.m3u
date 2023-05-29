@@ -1,25 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="HR| RACING TV HD" tvg-logo="http://logo.protv.cc/picons/logos/racingtv.png" group-title="HORSE RACING",HR| RACING TV HD
-http://ss123.pro:80/younes2023/younes2023/899881
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="HR| SKY SPORTS RACING HD" tvg-logo="http://logo.protv.cc/picons/logos/skysportsracing.png" group-title="HORSE RACING",HR| SKY SPORTS RACING HD
-http://ss123.pro:80/younes2023/younes2023/899880
-#EXTINF:-1 tvg-id="" tvg-name="HR| ATG LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/ATG-LIVE.png" group-title="HORSE RACING",HR| ATG LIVE HD
-http://ss123.pro:80/younes2023/younes2023/894440
-#EXTINF:-1 tvg-id="EquidiaLive.mu" tvg-name="HR| EQUIDIA LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/equidialive.png" group-title="HORSE RACING",HR| EQUIDIA LIVE HD
-http://ss123.pro:80/younes2023/younes2023/894432
-#EXTINF:-1 tvg-id="EquidiaLive.mu" tvg-name="HR| EQUIDIA LIVE" tvg-logo="http://logo.protv.cc/picons/logos/equidialive.png" group-title="HORSE RACING",HR| EQUIDIA LIVE
-http://ss123.pro:80/younes2023/younes2023/894433
-#EXTINF:-1 tvg-id="HorseCountryTV.nl" tvg-name="HR| HORSE & COUNTRY" tvg-logo="http://logo.protv.cc/picons/logos/horseandcountry.png" group-title="HORSE RACING",HR| HORSE & COUNTRY
-http://ss123.pro:80/younes2023/younes2023/894434
-#EXTINF:-1 tvg-id="" tvg-name="HR| UNIRESAT HD" tvg-logo="http://logo.protv.cc/picons/logos/UNIRESAT-.jpg" group-title="HORSE RACING",HR| UNIRESAT HD
-http://ss123.pro:80/younes2023/younes2023/894435
-#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-name="HR| DUBAI RACING 1 TV HD" tvg-logo="http://logo.protv.cc/picons/logos/DUBAI-SPORT-1-HD-NP.png" group-title="HORSE RACING",HR| DUBAI RACING 1 TV HD
-http://ss123.pro:80/younes2023/younes2023/894436
-#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-name="HR| DUBAI RACING 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/DUBAI-RACING-2.jpg" group-title="HORSE RACING",HR| DUBAI RACING 2 HD
-http://ss123.pro:80/younes2023/younes2023/894437
-#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-name="HR| DUBAI RACING 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/DUBAI-RACING-NP.png" group-title="HORSE RACING",HR| DUBAI RACING 3 HD
-http://ss123.pro:80/younes2023/younes2023/894438
-#EXTINF:-1 tvg-id="" tvg-name="HR| WILLIAM HILL LIVE [LIVE EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/WILLIAM-HILL.jpeg" group-title="HORSE RACING",HR| WILLIAM HILL LIVE [LIVE EVENT]
-http://ss123.pro:80/younes2023/younes2023/894439
+#EXTM3U
 #EXTINF:-1 tvg-id="Htv1.hr" tvg-name="HR| HRT 1" tvg-logo="http://logo.protv.cc/picons/logos/hrttv1.png" group-title="CROATIA",HR| HRT 1
 http://ss123.pro:80/younes2023/younes2023/110722
 #EXTINF:-1 tvg-id="Htv1.hr" tvg-name="HR| HRT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/hrttv1.png" group-title="CROATIA",HR| HRT 1 HD
